@@ -37,6 +37,7 @@ Members of LLT
 
 <details>
   <summary>Checklist for members: </summary>
+
   - [x] Fahad
   - [x] Ameen
   - [x] Arya
@@ -61,12 +62,14 @@ Members of LLT
   - [x] Naseef NT
   - [ ] Hima
   - [x] Rishi
+
 </details>
 
 ### 3. Make a quiz
 <details open>
 <summary>Sample questions, options and answers (Can use other quiz questions too..)</summary>
 
+  ```
   Questions:
   1) Starting position of an array is:
   2) Git is a:
@@ -81,6 +84,8 @@ Members of LLT
   1) 0
   2) Version Control System
   3) No
+  ```
+
 </details>
 
 Guidelines:
@@ -89,6 +94,7 @@ Guidelines:
 
 <details>
   <summary>Checklist for members: </summary>
+
   - [x] Fahad
   - [x] Ameen
   - [ ] Arya
@@ -113,6 +119,7 @@ Guidelines:
   - [x] Naseef NT
   - [ ] Hima
   - [x] Rishi
+
 </details>
 
 
